@@ -9,5 +9,5 @@ git clone https://github.com/henryV-4/Simple-Banner.git
 ## Usage
 ```
 cd Simple-Banner/
-./Bday_Banner.py
+python Bday_Banner.py
 ```
