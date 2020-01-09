@@ -5,6 +5,10 @@ A simple python program, which creates a birthday banner.
 ```
 git clone https://github.com/henryV-4/Simple-Banner.git
 ```
+## Dependencies
+```
+sudo apt install figlet
+```
 
 ## Usage
 ```
